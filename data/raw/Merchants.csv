@@ -1,0 +1,151 @@
+MerchantID,MerchantName,Category,City
+1,Amazon India,Shopping,Indore
+2,Flipkart,Shopping,Mumbai
+3,Myntra,Shopping,Pune
+4,Reliance Digital,Shopping,Nagpur
+5,Croma,Shopping,Chennai
+6,Decathlon,Shopping,Hyderabad
+7,Shoppers Stop,Shopping,Hyderabad
+8,Lifestyle,Shopping,Bengaluru
+9,Westside,Shopping,Nagpur
+10,Nykaa,Shopping,Mumbai
+11,Ajio,Shopping,Indore
+12,Hamleys,Shopping,Nagpur
+13,IKEA,Shopping,Gurugram
+14,Home Centre,Shopping,Kochi
+15,Vijay Sales,Shopping,Mumbai
+16,DMart,Groceries,Kolkata
+17,Reliance Fresh,Groceries,Ahmedabad
+18,BigBasket,Groceries,Pune
+19,Nature's Basket,Groceries,Pune
+20,Spencer's,Groceries,Mumbai
+21,More Supermarket,Groceries,Hyderabad
+22,Star Bazaar,Groceries,Hyderabad
+23,Easyday,Groceries,Kochi
+24,JioMart,Groceries,Kolkata
+25,FreshToHome,Groceries,Pune
+26,Ratnadeep,Groceries,Kochi
+27,Nilgiris,Groceries,Hyderabad
+28,Swiggy,Food & Dining,Nagpur
+29,Zomato,Food & Dining,Indore
+30,Domino's,Food & Dining,Nagpur
+31,McDonald's,Food & Dining,Kochi
+32,KFC,Food & Dining,Ahmedabad
+33,Burger King,Food & Dining,Hyderabad
+34,Pizza Hut,Food & Dining,Jaipur
+35,Subway,Food & Dining,Kolkata
+36,Starbucks,Food & Dining,Chennai
+37,Cafe Coffee Day,Food & Dining,Surat
+38,Barbeque Nation,Food & Dining,Noida
+39,Haldiram's,Food & Dining,Pune
+40,Bikanervala,Food & Dining,Surat
+41,Indian Oil,Fuel,Surat
+42,Bharat Petroleum,Fuel,Bengaluru
+43,HP Petrol Pump,Fuel,Nagpur
+44,Shell,Fuel,Ahmedabad
+45,Nayara Energy,Fuel,Delhi
+46,Reliance Fuel,Fuel,Chennai
+47,Uber,Travel,Bengaluru
+48,Ola,Travel,Hyderabad
+49,IRCTC,Travel,Surat
+50,RedBus,Travel,Delhi
+51,IndiGo,Travel,Mumbai
+52,Air India,Travel,Mumbai
+53,MakeMyTrip,Travel,Ahmedabad
+54,Goibibo,Travel,Mumbai
+55,Netflix,Entertainment,Delhi
+56,Spotify,Entertainment,Noida
+57,BookMyShow,Entertainment,Delhi
+58,PVR Cinemas,Entertainment,Kolkata
+59,INOX,Entertainment,Chennai
+60,Sony LIV,Entertainment,Surat
+61,JioHotstar,Entertainment,Pune
+62,YouTube Premium,Entertainment,Nagpur
+63,Apollo Pharmacy,Healthcare,Jaipur
+64,Tata 1mg,Healthcare,Kochi
+65,PharmEasy,Healthcare,Mumbai
+66,MedPlus,Healthcare,Gurugram
+67,Fortis Pharmacy,Healthcare,Ahmedabad
+68,Wellness Forever,Healthcare,Mumbai
+69,Tata Power,Utilities,Kochi
+70,MSEB,Utilities,Chennai
+71,BESCOM,Utilities,Noida
+72,Airtel,Utilities,Indore
+73,Jio,Utilities,Kolkata
+74,BSNL,Utilities,Gurugram
+75,ACT Fibernet,Utilities,Noida
+76,Vodafone Idea,Utilities,Delhi
+77,NovaPay Payroll,Salary,Kolkata
+78,Groww,Investment,Hyderabad
+79,Zerodha,Investment,Nagpur
+80,Upstox,Investment,Mumbai
+81,Angel One,Investment,Pune
+82,ICICI Direct,Investment,Indore
+83,HDFC Sky,Investment,Hyderabad
+84,SBI ATM,ATM,Surat
+85,HDFC ATM,ATM,Chennai
+86,ICICI ATM,ATM,Mumbai
+87,Axis ATM,ATM,Noida
+88,LIC,Bills & Recharge,Hyderabad
+89,FASTag Recharge,Bills & Recharge,Noida
+90,Electricity Bill,Bills & Recharge,Mumbai
+91,Gas Bill,Bills & Recharge,Ahmedabad
+92,Water Bill,Bills & Recharge,Chennai
+93,Mobile Recharge,Bills & Recharge,Jaipur
+94,ICICI ATM 94,ATM,Bengaluru
+95,Sony LIV 95,Entertainment,Hyderabad
+96,ICICI ATM 96,ATM,Nagpur
+97,SBI ATM 97,ATM,Kolkata
+98,HDFC ATM 98,ATM,Kochi
+99,FASTag Recharge 99,Bills & Recharge,Bengaluru
+100,ACT Fibernet 100,Utilities,Chennai
+101,HDFC ATM 101,ATM,Indore
+102,Netflix 102,Entertainment,Hyderabad
+103,IKEA 103,Shopping,Delhi
+104,PharmEasy 104,Healthcare,Mumbai
+105,Nayara Energy 105,Fuel,Gurugram
+106,Electricity Bill 106,Bills & Recharge,Hyderabad
+107,Axis ATM 107,ATM,Ahmedabad
+108,Axis ATM 108,ATM,Bengaluru
+109,IRCTC 109,Travel,Hyderabad
+110,Water Bill 110,Bills & Recharge,Kochi
+111,MakeMyTrip 111,Travel,Gurugram
+112,Angel One 112,Investment,Delhi
+113,Bharat Petroleum 113,Fuel,Kochi
+114,MSEB 114,Utilities,Surat
+115,Home Centre 115,Shopping,Mumbai
+116,Barbeque Nation 116,Food & Dining,Bengaluru
+117,Axis ATM 117,ATM,Kolkata
+118,Star Bazaar 118,Groceries,Ahmedabad
+119,Angel One 119,Investment,Kochi
+120,Uber 120,Travel,Indore
+121,LIC 121,Bills & Recharge,Indore
+122,NovaPay Payroll 122,Salary,Surat
+123,ICICI ATM 123,ATM,Mumbai
+124,MakeMyTrip 124,Travel,Bengaluru
+125,Tata Power 125,Utilities,Nagpur
+126,Electricity Bill 126,Bills & Recharge,Kochi
+127,Starbucks 127,Food & Dining,Gurugram
+128,Ratnadeep 128,Groceries,Chennai
+129,HDFC ATM 129,ATM,Bengaluru
+130,BookMyShow 130,Entertainment,Kochi
+131,NovaPay Payroll 131,Salary,Kolkata
+132,YouTube Premium 132,Entertainment,Pune
+133,More Supermarket 133,Groceries,Gurugram
+134,RedBus 134,Travel,Pune
+135,Nayara Energy 135,Fuel,Mumbai
+136,Nilgiris 136,Groceries,Jaipur
+137,JioMart 137,Groceries,Surat
+138,Domino's 138,Food & Dining,Indore
+139,BESCOM 139,Utilities,Chennai
+140,NovaPay Payroll 140,Salary,Hyderabad
+141,NovaPay Payroll 141,Salary,Nagpur
+142,MakeMyTrip 142,Travel,Indore
+143,ICICI ATM 143,ATM,Jaipur
+144,NovaPay Payroll 144,Salary,Mumbai
+145,Bharat Petroleum 145,Fuel,Mumbai
+146,Netflix 146,Entertainment,Kolkata
+147,NovaPay Payroll 147,Salary,Kolkata
+148,Indian Oil 148,Fuel,Mumbai
+149,Mobile Recharge 149,Bills & Recharge,Pune
+150,Indian Oil 150,Fuel,Gurugram

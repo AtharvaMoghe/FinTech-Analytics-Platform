@@ -1,0 +1,26 @@
+BranchID,BranchName,City,State
+1,Pune Central Branch,Pune,Maharashtra
+2,Hinjewadi Branch,Pune,Maharashtra
+3,Mumbai South Branch,Mumbai,Maharashtra
+4,Andheri Branch,Mumbai,Maharashtra
+5,Nagpur Branch,Nagpur,Maharashtra
+6,Bengaluru Central Branch,Bengaluru,Karnataka
+7,Whitefield Branch,Bengaluru,Karnataka
+8,Mysuru Branch,Mysuru,Karnataka
+9,Hyderabad Central Branch,Hyderabad,Telangana
+10,Gachibowli Branch,Hyderabad,Telangana
+11,Chennai Central Branch,Chennai,Tamil Nadu
+12,OMR Branch,Chennai,Tamil Nadu
+13,Coimbatore Branch,Coimbatore,Tamil Nadu
+14,Ahmedabad Branch,Ahmedabad,Gujarat
+15,Surat Branch,Surat,Gujarat
+16,Jaipur Branch,Jaipur,Rajasthan
+17,Delhi Connaught Place Branch,Delhi,Delhi
+18,Delhi Rohini Branch,Delhi,Delhi
+19,Kochi Branch,Kochi,Kerala
+20,Kolkata Branch,Kolkata,West Bengal
+21,Indore Branch,Indore,Madhya Pradesh
+22,Thane Branch,Thane,Maharashtra
+23,Navi Mumbai Branch,Navi Mumbai,Maharashtra
+24,Noida Branch,Noida,Uttar Pradesh
+25,Gurugram Branch,Gurugram,Haryana

@@ -1,0 +1,6 @@
+PaymentMethodID,Method
+1,UPI
+2,Debit Card
+3,Credit Card
+4,Net Banking
+5,Wallet
