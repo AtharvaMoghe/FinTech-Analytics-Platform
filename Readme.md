@@ -145,20 +145,21 @@ Key Learnings
 
 Working on this project helped me gain hands-on experience with:
 
-Relational database design
+1.Relational database design
 
-SQL query optimization
+2.SQL query optimization
 
-Data modeling
+3.Data modeling
 
-Power BI dashboard development
+4.Power BI dashboard development
 
-DAX calculations
+5.DAX calculations
 
-Business-focused analytics
+6.Business-focused analytics
 
 
 Future Improvements
+
 A few areas I'd like to explore next:
 
 Building an automated ETL pipeline
