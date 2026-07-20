@@ -1,277 +1,142 @@
-# FinTech Banking Analytics Platform — SQL + Power BI
+FinTech Banking Analytics Platform
 
-## Project Overview
+About the Project
 
-This project demonstrates an end-to-end **FinTech analytics solution** built using SQL and Power BI.
+This project is an end-to-end banking analytics solution built using SQL Server and Power BI.
+I created it to practice working with a relational database, writing analytical SQL queries, and building interactive dashboards that can turn raw transaction data into useful business insights.
+The dataset simulates a digital banking environment with customers, accounts, transactions, merchants, branches, and payment methods. Using this data, I built a database, performed analysis using SQL, and visualized the results in Power BI.
 
-The goal is to transform raw banking transaction data into meaningful business insights by building a structured relational database, performing advanced SQL analysis, and creating interactive Power BI dashboards.
+Project Goal
+The main goal of this project was to answer common business questions such as:
 
-The project showcases real-world analytics workflows including:
-
-- Data modeling
-- SQL transformations
-- Complex joins
-- Views and aggregations
-- Customer analytics
-- Transaction analysis
-- Financial KPIs
-- Power BI dashboards
-- DAX measures
-
----
-
-# Business Scenario
-
-A digital banking organization wants to analyze customer behavior, transaction trends, merchant performance, and financial activity.
-
-The analytics team needs visibility into:
-
-- Customer spending patterns
-- Transaction volumes
-- Revenue trends
-- Payment method adoption
-- Merchant performance
-- Branch-level performance
-- Customer segmentation
-
-This project builds the data foundation and reporting layer required to answer these business questions.
-
----
-
-# Project Structure
-
-```
-FinTech-Banking-Analytics/
-│
-├── Data/
-│   ├── Raw/
-│   │   ├── Customers.csv
-│   │   ├── Accounts.csv
-│   │   ├── Transactions.csv
-│   │   ├── Merchants.csv
-│   │   ├── Branches.csv
-│   │   ├── PaymentMethods.csv
-│   │   └── TransactionCategories.csv
-│
-├── SQL/
-│   ├── Database_Setup.sql
-│   ├── Table_Creation.sql
-│   ├── Data_Loading.sql
-│   ├── Views.sql
-│   └── Analysis_Queries.sql
-│
-├── PowerBI/
-│   └── FinTech_Analytics_Dashboard.pbix
-│
-├── Documentation/
-│   └── Data_Model.png
-│
-└── README.md
-```
-
----
-
-# Tech Stack
-
-## Database
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-
-## Analytics & Visualization
-- Microsoft Power BI
-- DAX
-- Power Query
-
-## Data Processing
-- CSV datasets
-- Relational data modeling
-
----
-
-# Data Model
-
-The database follows a relational schema containing:
-
-### Customer Domain
-- Customers
-- Accounts
-
-### Transaction Domain
-- Transactions
-- Transaction Categories
-- Payment Methods
-
-### Business Domain
-- Merchants
-- Branches
+Which customers generate the most transaction activity?
+How are transaction volumes changing over time?
+Which merchants contribute the most revenue?
+What payment methods are most commonly used?
+Which branches perform the best?
 
 
-### Relationships
+Technologies Used
 
-Example relationships:
+Database
 
-```
+1. Microsoft SQL Server
+2. SQL Server Management Studio (SSMS)
+
+Visualization
+
+1. Power BI
+2. DAX
+3. Power Query
+
+Data
+
+1. CSV Files
+2. Relational Database Design
+
+
+
+
+Data Model
+
+The database is built around a few core entities:
+
 Customers
-    |
-    |
 Accounts
-    |
-    |
 Transactions
-    |
-    |------------- Merchants
-    |
-    |------------- Payment Methods
-    |
-    |------------- Transaction Categories
-```
+Merchants
+Branches
+Payment Methods
+Transaction Categories
 
----
 
-# SQL Implementation
+SQL Work
+For the SQL portion of the project, I focused on building a structured database and writing queries that could be used for reporting and analysis.
+Some of the concepts used include:
 
-The SQL layer demonstrates production-style analytics development.
+Joins
+Views
+Aggregations
+Window Functions
+Group By Analysis
+KPI Calculations
 
-## Database Design
+The SQL layer serves as the foundation for the Power BI dashboards.
 
-Implemented:
+Power BI Dashboard
+After preparing the data in SQL, I connected it to Power BI and created several dashboards to explore different areas of the business.
+Executive Overview
+Key metrics such as:
 
-- Tables
-- Primary keys
-- Foreign keys
-- Constraints
-- Data relationships
+Total Transaction Value
+Total Transactions
+Active Customers
+Average Transaction Value
 
+Customer Insights
 
-## SQL Concepts Demonstrated
+High-value customers
+Spending patterns
+Account activity
+Customer segmentation
 
-### Joins
+Transaction Analysis
 
-### Views
+Monthly transaction trends
+Transaction category performance
+Payment method usage
 
-### Aggregations
+Merchant Analytics
 
-### Advanced SQL
+Top-performing merchants
+Revenue contribution
+Transaction activity by merchant
 
+Branch Performance
 
+Branch-wise transaction volume
+Regional comparisons
+Customer distribution
 
-# Power BI Dashboard
 
-The Power BI layer transforms SQL outputs into interactive business dashboards.
+DAX Measures
+Some of the custom measures used in Power BI include:
 
-## Dashboard Pages
+Total Revenue
+Transaction Count
+Average Transaction Value
+Customer Growth Rate
+Monthly Performance Metrics
+Ranking Measures
 
-### Executive Overview
 
-KPIs:
+Key Learnings
+Working on this project helped me gain hands-on experience with:
 
-- Total Transaction Volume
-- Total Transaction Value
-- Active Customers
-- Average Transaction Value
+Relational database design
+SQL query optimization
+Data modeling
+Power BI dashboard development
+DAX calculations
+Business-focused analytics
 
 
-### Customer Analytics
+Future Improvements
+A few areas I'd like to explore next:
 
-Insights:
+Building an automated ETL pipeline
+Migrating the solution to Microsoft Fabric
+Adding data quality validation checks
+Creating a fraud detection dashboard
+Developing customer churn prediction models
+Implementing real-time reporting
 
-- Customer spending behavior
-- High-value customers
-- Customer segmentation
-- Account activity
 
+Author
 
-### Transaction Analysis
+Atharva Moghe
 
-Visualizations:
+Associate Software Engineer | SQL | Power BI | Microsoft Fabric
 
-- Monthly transaction trends
-- Transaction category breakdown
-- Payment method adoption
 
-
-### Merchant Analytics
-
-Insights:
-
-- Top-performing merchants
-- Revenue contribution
-- Merchant transaction volume
-
-
-### Branch Performance
-
-Analysis:
-
-- Branch transaction activity
-- Regional performance
-- Customer distribution
-
----
-
-#  DAX Measures
-
-The project includes custom DAX calculations for:
-
-- Total Revenue
-- Transaction Count
-- Average Transaction Value
-- Customer Growth
-- Monthly Trends
-- Ranking Metrics
-
-
-#  Key Business Questions Answered
-
-This project helps answer:
-
-### Customer Insights
-
-- Who are the highest-value customers?
-- Which customers drive the most transaction volume?
-- How does customer activity change over time?
-
-
-### Transaction Insights
-
-- What are the most common transaction categories?
-- Which payment methods are preferred?
-- How are transaction values trending?
-
-
-### Merchant Insights
-
-- Which merchants generate the most activity?
-- Which categories contribute the most revenue?
-
-
-### Operational Insights
-
-- Which branches perform best?
-- Where are transaction volumes concentrated?
-
----
-
-#  Future Enhancements
-
-Potential improvements:
-
-- Add automated ETL pipeline
-- Implement data quality checks
-- Add Azure SQL deployment
-- Build Fabric Lakehouse version
-- Add customer churn prediction model
-- Add fraud detection analytics
-- Implement real-time transaction monitoring
-
----
-
-# 👨Author
-
-**Atharva Moghe**
-
-Data Analytics | SQL | Power BI | Microsoft Fabric
-
----
-
-⭐ If you found this project useful, feel free to explore the repository and connect!
+Feel free to connect with me or check out my other projects.
