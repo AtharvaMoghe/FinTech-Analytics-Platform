@@ -63,51 +63,53 @@ KPI Calculations
 
 The SQL layer serves as the foundation for the Power BI dashboards.
 
-Power BI Dashboard
+
 After preparing the data in SQL, I connected it to Power BI and created several dashboards to explore different areas of the business.
+
 Executive Overview
+
 Key metrics such as:
 
-Total Transaction Value
-Total Transactions
-Active Customers
-Average Transaction Value
+1.Total Transaction Value
+2.Total Transactions
+3.Active Customers
+4.Average Transaction Value
 
 Customer Insights
 
-High-value customers
-Spending patterns
-Account activity
-Customer segmentation
+1.High-value customers
+2.Spending patterns
+3.Account activity
+4.Customer segmentation
 
 Transaction Analysis
 
-Monthly transaction trends
-Transaction category performance
-Payment method usage
+1.Monthly transaction trends
+2.Transaction category performance
+3.Payment method usage
 
 Merchant Analytics
 
-Top-performing merchants
-Revenue contribution
-Transaction activity by merchant
+1.Top-performing merchants
+2.Revenue contribution
+3.Transaction activity by merchant
 
 Branch Performance
 
-Branch-wise transaction volume
-Regional comparisons
-Customer distribution
+1.Branch-wise transaction volume
+2.Regional comparisons
+3.Customer distribution
 
 
 DAX Measures
 Some of the custom measures used in Power BI include:
 
-Total Revenue
-Transaction Count
-Average Transaction Value
-Customer Growth Rate
-Monthly Performance Metrics
-Ranking Measures
+1.Total Revenue
+2.Transaction Count
+3.Average Transaction Value
+4.Customer Growth Rate
+5.Monthly Performance Metrics
+6.Ranking Measures
 
 
 Key Learnings
