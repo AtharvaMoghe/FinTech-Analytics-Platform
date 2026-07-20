@@ -7,12 +7,17 @@ I created it to practice working with a relational database, writing analytical 
 The dataset simulates a digital banking environment with customers, accounts, transactions, merchants, branches, and payment methods. Using this data, I built a database, performed analysis using SQL, and visualized the results in Power BI.
 
 Project Goal
+
 The main goal of this project was to answer common business questions such as:
 
 Which customers generate the most transaction activity?
+
 How are transaction volumes changing over time?
+
 Which merchants contribute the most revenue?
+
 What payment methods are most commonly used?
+
 Which branches perform the best?
 
 
@@ -51,6 +56,7 @@ Transaction Categories
 
 
 SQL Work
+
 For the SQL portion of the project, I focused on building a structured database and writing queries that could be used for reporting and analysis.
 Some of the concepts used include:
 
