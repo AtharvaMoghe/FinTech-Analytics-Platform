@@ -84,7 +84,10 @@ Key metrics such as:
 
 4.Average Transaction Value
 
+
+
 Customer Insights
+
 
 1.High-value customers
 
@@ -102,6 +105,7 @@ Transaction Analysis
 
 3.Payment method usage
 
+
 Merchant Analytics
 
 1.Top-performing merchants
@@ -109,6 +113,7 @@ Merchant Analytics
 2.Revenue contribution
 
 3.Transaction activity by merchant
+
 
 Branch Performance
 
@@ -120,6 +125,7 @@ Branch Performance
 
 
 DAX Measures
+
 Some of the custom measures used in Power BI include:
 
 1.Total Revenue
@@ -136,13 +142,19 @@ Some of the custom measures used in Power BI include:
 
 
 Key Learnings
+
 Working on this project helped me gain hands-on experience with:
 
 Relational database design
+
 SQL query optimization
+
 Data modeling
+
 Power BI dashboard development
+
 DAX calculations
+
 Business-focused analytics
 
 
