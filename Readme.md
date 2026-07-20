@@ -77,33 +77,45 @@ Executive Overview
 Key metrics such as:
 
 1.Total Transaction Value
+
 2.Total Transactions
+
 3.Active Customers
+
 4.Average Transaction Value
 
 Customer Insights
 
 1.High-value customers
+
 2.Spending patterns
+
 3.Account activity
+
 4.Customer segmentation
 
 Transaction Analysis
 
 1.Monthly transaction trends
+
 2.Transaction category performance
+
 3.Payment method usage
 
 Merchant Analytics
 
 1.Top-performing merchants
+
 2.Revenue contribution
+
 3.Transaction activity by merchant
 
 Branch Performance
 
 1.Branch-wise transaction volume
+
 2.Regional comparisons
+
 3.Customer distribution
 
 
@@ -111,10 +123,15 @@ DAX Measures
 Some of the custom measures used in Power BI include:
 
 1.Total Revenue
+
 2.Transaction Count
+
 3.Average Transaction Value
+
 4.Customer Growth Rate
+
 5.Monthly Performance Metrics
+
 6.Ranking Measures
 
 
